@@ -1,4 +1,4 @@
-### Hi there 👋
+### olá, me chamo candido 👋
 
 <!--
 **cand0507/cand0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
